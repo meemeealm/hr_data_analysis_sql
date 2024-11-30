@@ -1,1 +1,1 @@
-# hr_data_analysis_sql
+# HR Data Analysis Using SQL
