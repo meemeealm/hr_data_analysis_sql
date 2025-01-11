@@ -1,6 +1,12 @@
+-- create table of employee -- 
+CREATE TABLE employee_overview (employee_id text, department text, gender text, length_of_service int);
+
 -- show the number of employee records --
 SELECT COUNT(*)
 FROM hr_data;
+
+-- check duplicate records -- 
+SELECT distinct(count(*)) FROM hr_data;
 
 -- add a new column 'email' --
 ALTER TABLE hr_data
