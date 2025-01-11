@@ -17,6 +17,11 @@ ADD email varchar(50);
 SELECT distinct (education)
 FROM hr_data;
 
+-- check null in education column
+SELECT distinct (education)
+FROM hr_data
+WHERE education is null;
+
 -- show the departments --
 SELECT distinct (department)
 FROM hr_data;
