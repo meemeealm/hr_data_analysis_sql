@@ -1,3 +1,5 @@
+### Data Cleaning 
+	
 -- create table of employee -- 
 CREATE TABLE employee_overview (employee_id text, department text, gender text, length_of_service int);
 
@@ -12,15 +14,16 @@ SELECT distinct(count(*)) FROM hr_data;
 ALTER TABLE hr_data
 ADD email varchar(50);
 
--- EDUCATION --
--- show the education of employees --
-SELECT distinct (education)
-FROM hr_data;
-
 -- check null in education column
 SELECT distinct (education)
 FROM hr_data
 WHERE education is null;
+
+## Data Exploration
+-- EDUCATION --
+-- show the education of employees --
+SELECT distinct (education)
+FROM hr_data;
 
 -- show the departments --
 SELECT distinct (department)
