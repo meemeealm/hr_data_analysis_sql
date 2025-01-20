@@ -17,5 +17,11 @@ Step 2 - Inspect the datasets in Excel Sheets. Perform data validation.
 
 Step 3 - Import the dataset into MySQL.
 
+Step 4 - Visualize data in Looker Studio.
+
 **Project Highlights**
 - Utilize SQL for querying and analyzing large HR datasets.
+
+<p align="center">
+<img src = "https://github.com/meemeealm/hr_data_analysis_sql/blob/main/HR%20Dashboard.png" alt="Dashboard" width = "500"/>
+</p>
