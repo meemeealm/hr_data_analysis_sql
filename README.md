@@ -25,3 +25,4 @@ Step 4 - Visualize data in Looker Studio.
 <p align="center">
 <img src = "https://github.com/meemeealm/hr_data_analysis_sql/blob/main/HR%20Dashboard.png" alt="Dashboard" width = "500"/>
 </p>
+[Link to Looker Studio](https://lookerstudio.google.com/u/0/reporting/b890a638-e713-49f1-92c2-c98451d8e879/page/P8pQB)
