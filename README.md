@@ -1,4 +1,4 @@
-# HR Data Analysis Using SQL
+# HR Data Analysis Using SQL and Looker Studio
 
 <img src="https://cdn.creazilla.com/cliparts/7770034/business-man-woman-clipart-xl.png" alt="drawing" width="400"/>
 
@@ -21,6 +21,7 @@ Step 4 - Visualize data in Looker Studio.
 
 **Project Highlights**
 - Utilize SQL for querying and analyzing large HR datasets.
+- Visualize cleaned data on Looker Studio.
 
 <p align="center">
 <img src = "https://github.com/meemeealm/hr_data_analysis_sql/blob/main/HR%20Dashboard.png" alt="Dashboard" width = "500"/>
